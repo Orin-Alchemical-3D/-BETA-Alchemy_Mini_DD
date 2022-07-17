@@ -1,6 +1,9 @@
 # -BETA-Alchemy_Mini_DD
 Small footprint &amp; lightweight direct drive extrusion system.
 
+!HOTE: I will be releasing a model cooler assembly for this hotend shortly as well, so if you do not have something that works with it right away,
+please keep an eye on this repository for the design.
+
 !NOTE: THIS IS A BETA RELEASE AND NOT THE FINAL PRODUCT, YOU ARE RESPONSIBLE FOR YOUR SAFETY AND EQUIPMENT WHEN BUILDING AND USING THIS SYSTEM AND 
 YOU ACCEPT ALL LIABILITY BY USING THESE FILES FROM THIS BETA TO RELEASE CANDIDATES AND POST!
 
