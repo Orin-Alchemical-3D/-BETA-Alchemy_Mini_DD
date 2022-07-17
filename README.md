@@ -1,11 +1,18 @@
 # -BETA-Alchemy_Mini_DD
 Small footprint &amp; lightweight direct drive extrusion system.
 
-!NOTE: I will be releasing a model cooler assembly for this hotend shortly as well, so if you do not have something that works with it right away,
+!!!!  PLEASE READ THESE NOTES PRIOR TO CONTINUING WITH YOUR BUILD !!!!
+
+A)  I will be releasing a model cooler assembly for this hotend shortly as well, so if you do not have something that works with it right away,
 please keep an eye on this repository for the design.
 
-!NOTE: THIS IS A BETA RELEASE AND NOT THE FINAL PRODUCT, YOU ARE RESPONSIBLE FOR YOUR SAFETY AND EQUIPMENT WHEN BUILDING AND USING THIS SYSTEM AND 
+B)  This assembly comes in relatively close conditions to a hotend and a working stepper motor.  I will not support issues due to using materials such as PLA to build the assembly.  PLA and similar materials are NOT suitable to build 3D printer parts out of, please do not ask if PLA is ok, it is not.  If you are going to use PETG for the build, please keep an eye on the motor mount area and consider reducing current to your motor.  Steppers produce heat and PETG (while better than PLA) still has a lower TG point, it could warp.
+
+C)  !NOTE: THIS IS A BETA RELEASE AND NOT THE FINAL PRODUCT, YOU ARE RESPONSIBLE FOR YOUR SAFETY AND EQUIPMENT WHEN BUILDING AND USING THIS SYSTEM AND 
 YOU ACCEPT ALL LIABILITY BY USING THESE FILES FROM THIS BETA TO RELEASE CANDIDATES AND POST!
+
+
+
 
 This is the first rendition of the Alchemy_Mini_DD.   This system's initial design is based on the Voron Jetpack motion components and principal.  
 
