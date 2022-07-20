@@ -45,11 +45,18 @@ Highly Recommended Items Below
 
 
 PRINT SETTINGS
+
 Materials - ABS/ASA
+
 Layer Height - 0.20
-Extrusion Width - Forced 0.4mm
+
+Extrusion Width - Forced 0.4m
+
 Infil Percentage - 40%+
+
 Infil Type - Grid, Honeycomb, Triangle, or Cubic
+
 Top/Bottom Wall Count - 4
+
 Perimeter Count - 4
 
