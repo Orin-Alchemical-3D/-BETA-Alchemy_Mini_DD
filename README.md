@@ -50,49 +50,18 @@ Note: I am working with suppliers to distribute individual qty purchases, this e
 
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
-1. QTY - 9 - M3x5x4 Heatsets (Voron standard heatset)
-
-https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html
-
-2. QTY - 3 - MR115-2RS Bearing
-
-https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5
-
-3. QTY - 2 - GT2 16T 5mm Shaft Pully (Note: One of these gets the top ring pulled off, be sure your pully top is not molded and not the longer version)
-
-https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1634481998632.html
-
+1. QTY - 9 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html) (Voron standard heatset)
+2. QTY - 3 - [MR115-2RS](https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5) Bearing
+3. QTY - 2 - [GT2 16T 5mm Shaft Pully](https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1634481998632.html) (Note: One of these gets the top ring pulled off, be sure your pully top is not molded and not the longer version)
 4. QTY - 2 - M3x8 SHCS
-
-
-5. QTY - 1 - 5x45 Shaft w/flat.
-
-
-https://kb-3d.com/store/hardware/141-60-5mm-bearing-steel-shafts-various-lengths-1642282491009.html#/32-5mmshafts-25mm
-
-6. QTY - 4 - M3x6 Set Screw (Note: This is basically a longer grub screw, FHCS might clear the support)
-
-https://kb-3d.com/store/inserts-fasteners-adhesives/624-alloy-set-screw-m3-x-05-x-6mm-cup-point-1656776837999.html
-
+5. QTY - 1 - [5x45 Shaft w/flat](https://kb-3d.com/store/hardware/141-60-5mm-bearing-steel-shafts-various-lengths-1642282491009.html#/32-5mmshafts-25mm)
+6. QTY - 4 - [M3x6 Set Screw](https://kb-3d.com/store/inserts-fasteners-adhesives/624-alloy-set-screw-m3-x-05-x-6mm-cup-point-1656776837999.html) (Note: This is basically a longer grub screw, FHCS might clear the support)
 7. QTY - 1 - [GT2 150T](https://www.amazon.com/BEMONOC-Timing-Belt-Closed-Loop/dp/B014QJQMJ8/ref=sr_1_1_sspa?crid=1IC9U1M0CK6E3&keywords=150mm+belt+GT2&qid=1658323968&sprefix=150mm+belt+gt2%2Caps%2C76&sr=8-1-spons&psc=1&smid=A15GNHST7KG47K&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFUzI2WEhNV0tETEsmZW5jcnlwdGVkSWQ9QTAyMDM3NjUyWEpYQzRBMUU1VUJTJmVuY3J5cHRlZEFkSWQ9QTAxOTEzMjZXRzdTN0hZQk5ENEYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) Closed Loop Belt
-
-https://www.amazon.com/BEMONOC-Timing-Belt-Closed-Loop/dp/B014QJQMJ8/ref=sr_1_1_sspa?crid=1IC9U1M0CK6E3&keywords=150mm+belt+GT2&qid=1658323968&sprefix=150mm+belt+gt2%2Caps%2C76&sr=8-1-spons&psc=1&smid=A15GNHST7KG47K&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFUzI2WEhNV0tETEsmZW5jcnlwdGVkSWQ9QTAyMDM3NjUyWEpYQzRBMUU1VUJTJmVuY3J5cHRlZEFkSWQ9QTAxOTEzMjZXRzdTN0hZQk5ENEYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
-
 8. QTY - 7 - M3x20 SHCS
-
 9. QTY - 2 - M3x25 SHCS
-
-10. QTY - 1 - BondTech BMG Extruder Internals Kit
-
-https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html
-
-11. QTY - 1 - Nema17 42x42x20 16Ncm (You cannot use steppers with longer bodies without modifying the system, thus noted here.)
-
-https://www.amazon.com/Stepper-Bipolar-15-6oz-42x42x20mm-4-wires/dp/B00W96BBF6/ref=sr_1_8?crid=2COZS9H4G2S5O&keywords=pancake+stepper&qid=1657939275&sprefix=pancake+steppe%2Caps%2C101&sr=8-8
-
-12. QTY - 1 - E3D V6 (or clone) or E3D Revo-Six (or clone) or any other hotend using the V6 style clamp mounting system.
-
-https://gulfcoast-robotics.com/collections/hotends/products/all-metal-v6-hotend-black-edition
+10. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html)
+11. QTY - 1 - [Nema17 42x42x20 16Ncm](https://www.amazon.com/Stepper-Bipolar-15-6oz-42x42x20mm-4-wires/dp/B00W96BBF6/ref=sr_1_8?crid=2COZS9H4G2S5O&keywords=pancake+stepper&qid=1657939275&sprefix=pancake+steppe%2Caps%2C101&sr=8-8) (You cannot use steppers with longer bodies without modifying the system, thus noted here.)
+12. QTY - 1 - [E3D V6 (or clone)](https://gulfcoast-robotics.com/collections/hotends/products/all-metal-v6-hotend-black-edition) or E3D Revo-Six (or clone) or any other hotend using the V6 style clamp mounting system.
 
 Highly Recommended Items Below
 
