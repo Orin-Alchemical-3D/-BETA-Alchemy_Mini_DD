@@ -69,7 +69,7 @@ Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
 Highly Recommended Items Below
 
-13. QTY - 1 - Threadlocker (Loctite Blue or similar strength)
+13. QTY - 1 - Threadlocker (Loctite Blue or similar strength, its important to note that threadlockers WILL damage ASA/ABS if they come in contact, take care when applying thread lockers that it only gets on the metal assembly.)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
