@@ -27,7 +27,7 @@ you are not familiar with the Voron project to educate yourself on the hard work
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# -BOM.  (Note: This is the bare minimum and its wise to have spare screws/heatsets etc.)
+# -BOM.  (Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 1. QTY - 9 - M3x5x4 Heatsets (Voron standard heatset)
 2. QTY - 3 - MR115-2RS Bearing
 3. QTY - 2 - GT2 16T 5mm Shaft Pully
