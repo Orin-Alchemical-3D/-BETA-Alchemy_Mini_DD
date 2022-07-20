@@ -1,6 +1,9 @@
 # BETA_Alchemy_Mini_Direct_Drive
 Small footprint &amp; lightweight direct drive extrusion system.
 
+Join the community discussion, get assistance, or even show off your mods!
+DISCORD: https://discord.gg/aE49DW2xXe
+
 !!!!  PLEASE READ THESE NOTES PRIOR TO CONTINUING WITH YOUR BUILD !!!!
 
 A)  I will be releasing a model cooler assembly for this hotend shortly as well, so if you do not have something that works with it right away,
