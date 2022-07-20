@@ -59,7 +59,7 @@ Note: I am working with suppliers to distribute individual qty purchases, this e
 
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
-1. QTY - 9 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html) (Be sure to get angled edges, not straight)
+1. QTY - 9 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html) (Be sure to get angled exterior texture, not straight)
 2. QTY - 3 - [MR115-2RS Bearing](https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5) 
 3. QTY - 2 - [GT2 16T 5mm Shaft Pully](https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1634481998632.html) (Note: One of these gets the top ring pulled off, be sure your pully top is not molded and not the longer version)
 4. QTY - 1 - [5x45 Shaft w/flat](https://kb-3d.com/store/hardware/141-60-5mm-bearing-steel-shafts-various-lengths-1642282491009.html#/32-5mmshafts-25mm) (You can either find one with flats already, or add them yourself using a dremmel or other tool.)
