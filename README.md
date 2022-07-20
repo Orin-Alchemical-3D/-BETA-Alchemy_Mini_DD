@@ -41,3 +41,15 @@ BOM.  (Note: This is the bare minimum and its wise to have spare screws/heatsets
 Highly Recommended Items Below
 
 13. QTY - 1 - Threadlocker (Loctite Blue or similar strength)
+
+
+
+PRINT SETTINGS
+Materials - ABS/ASA
+Layer Height - 0.20
+Extrusion Width - Forced 0.4mm
+Infil Percentage - 40%+
+Infil Type - Grid, Honeycomb, Triangle, or Cubic
+Top/Bottom Wall Count - 4
+Perimeter Count - 4
+
