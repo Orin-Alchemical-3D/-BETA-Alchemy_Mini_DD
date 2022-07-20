@@ -67,7 +67,7 @@ Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 6. QTY - 2 - M3x8 SHCS (Socket Head Cap Screw)
 7. QTY - 7 - M3x20 SHCS (Socket Head Cap Screw)
 8. QTY - 2 - M3x25 SHCS (Socket Head Cap Screw)
-9. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html)
+9. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html) (Some clones have the correct components for this build internally)
 10. QTY - 1 - [GT2 150T](https://www.amazon.com/BEMONOC-Timing-Belt-Closed-Loop/dp/B014QJQMJ8/ref=sr_1_1_sspa?crid=1IC9U1M0CK6E3&keywords=150mm+belt+GT2&qid=1658323968&sprefix=150mm+belt+gt2%2Caps%2C76&sr=8-1-spons&psc=1&smid=A15GNHST7KG47K&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFUzI2WEhNV0tETEsmZW5jcnlwdGVkSWQ9QTAyMDM3NjUyWEpYQzRBMUU1VUJTJmVuY3J5cHRlZEFkSWQ9QTAxOTEzMjZXRzdTN0hZQk5ENEYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) Closed Loop Belt
 11. QTY - 1 - [Nema17 42x42x20 16Ncm](https://www.printedsolid.com/collections/electronics/products/ldo-nema-17-motor-super-slim-ldo-42sth20-1004as1) (You cannot use steppers with longer bodies without modifying the system, thus noted here.)
 12. QTY - 1 - [E3D V6 (or clone)](https://gulfcoast-robotics.com/collections/hotends/products/all-metal-v6-hotend-black-edition) or [E3D Revo-Six](https://kb-3d.com/store/extruders-hotends/425-e3d-rapid-change-revo-hotend-six-24v-1640229946834.html) or any other hotend using the V6 style clamp mounting system.
