@@ -1,8 +1,7 @@
 # BETA_Alchemy_Mini_Direct_Drive
 Small footprint &amp; lightweight direct drive extrusion system.
 
-# Join the community discussion, get assistance, or even show off your mods!
-# DISCORD: https://discord.gg/aE49DW2xXe
+# Join the community discussion, get assistance, or even show off your mods!  DISCORD: https://discord.gg/aE49DW2xXe
 
 !!!!  PLEASE READ THESE NOTES PRIOR TO CONTINUING WITH YOUR BUILD !!!!
 
