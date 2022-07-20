@@ -60,7 +60,7 @@ Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 8. QTY - 7 - M3x20 SHCS
 9. QTY - 2 - M3x25 SHCS
 10. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html)
-11. QTY - 1 - [Nema17 42x42x20 16Ncm](https://www.printedsolid.com/collections/electronics/products/ldo-nema-17-high-temp-voron-ldo-42sth20-1004ashvrn) (You cannot use steppers with longer bodies without modifying the system, thus noted here.)
+11. QTY - 1 - [Nema17 42x42x20 16Ncm](https://www.printedsolid.com/collections/electronics/products/ldo-nema-17-motor-super-slim-ldo-42sth20-1004as1) (You cannot use steppers with longer bodies without modifying the system, thus noted here.)
 12. QTY - 1 - [E3D V6 (or clone)](https://gulfcoast-robotics.com/collections/hotends/products/all-metal-v6-hotend-black-edition) or E3D Revo-Six (or clone) or any other hotend using the V6 style clamp mounting system.
 
 Highly Recommended Items Below
