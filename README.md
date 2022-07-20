@@ -74,7 +74,7 @@ https://kb-3d.com/store/hardware/141-60-5mm-bearing-steel-shafts-various-lengths
 
 https://kb-3d.com/store/inserts-fasteners-adhesives/624-alloy-set-screw-m3-x-05-x-6mm-cup-point-1656776837999.html
 
-7. QTY - 1 - GT2 150T Closed Loop Belt
+7. QTY - 1 - [GT2 150T](https://www.amazon.com/BEMONOC-Timing-Belt-Closed-Loop/dp/B014QJQMJ8/ref=sr_1_1_sspa?crid=1IC9U1M0CK6E3&keywords=150mm+belt+GT2&qid=1658323968&sprefix=150mm+belt+gt2%2Caps%2C76&sr=8-1-spons&psc=1&smid=A15GNHST7KG47K&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFUzI2WEhNV0tETEsmZW5jcnlwdGVkSWQ9QTAyMDM3NjUyWEpYQzRBMUU1VUJTJmVuY3J5cHRlZEFkSWQ9QTAxOTEzMjZXRzdTN0hZQk5ENEYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) Closed Loop Belt
 
 https://www.amazon.com/BEMONOC-Timing-Belt-Closed-Loop/dp/B014QJQMJ8/ref=sr_1_1_sspa?crid=1IC9U1M0CK6E3&keywords=150mm+belt+GT2&qid=1658323968&sprefix=150mm+belt+gt2%2Caps%2C76&sr=8-1-spons&psc=1&smid=A15GNHST7KG47K&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFUzI2WEhNV0tETEsmZW5jcnlwdGVkSWQ9QTAyMDM3NjUyWEpYQzRBMUU1VUJTJmVuY3J5cHRlZEFkSWQ9QTAxOTEzMjZXRzdTN0hZQk5ENEYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
 
