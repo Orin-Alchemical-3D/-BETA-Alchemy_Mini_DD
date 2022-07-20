@@ -58,7 +58,7 @@ https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-
 
 https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5
 
-3. QTY - 2 - GT2 16T 5mm Shaft Pully (Note: One of these pulleys gets top ring pulled off, be sure your pully top is not molded)
+3. QTY - 2 - GT2 16T 5mm Shaft Pully (Note: One of these gets the top ring pulled off, be sure your pully top is not molded and not the longer version)
 
 https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1634481998632.html
 
