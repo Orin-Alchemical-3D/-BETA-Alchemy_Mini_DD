@@ -47,6 +47,7 @@ Perimeter Count - 4
 
 # B.O.M.  
 Note: I am working with suppliers to distribute individual qty purchases, this early in project though some of these are multipacks.
+
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
 1. QTY - 9 - M3x5x4 Heatsets (Voron standard heatset)
