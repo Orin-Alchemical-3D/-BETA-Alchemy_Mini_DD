@@ -39,6 +39,7 @@ https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-
 https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5
 
 3. QTY - 2 - GT2 16T 5mm Shaft Pully (Note: One of these pulleys gets top ring pulled off, be sure your pully top is not molded)
+
 https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1634481998632.html
 
 4. QTY - 2 - M3x8 SHCS
@@ -48,6 +49,7 @@ https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1
 
 
 https://kb-3d.com/store/hardware/141-60-5mm-bearing-steel-shafts-various-lengths-1642282491009.html#/32-5mmshafts-25mm
+
 6. QTY - 4 - M3x6 Set Screw (Note: This is basically a longer grub screw, FHCS might clear the support)
 
 7. QTY - 1 - GT2 150T Closed Loop Belt
