@@ -15,7 +15,7 @@ YOU ACCEPT ALL LIABILITY BY USING THESE FILES FROM THIS BETA TO RELEASE CANDIDAT
 
 # PREFACE
 
-This is the first rendition of the Alchemy_Mini_DD.   This system's initial design is based on the Voron Jetpack motion components and principal.  
+This is the first rendition of the Alchemy_Mini_DD.   This system's initial design is based on the Voron Jetpack motion components.  
 
 Creation of this system was inspired by the lack of existing direct drive solutions on the market and in maker space which compare with the likes 
 of the E3D Hemera and BIQU H2, etc.  Units that we as individuals, can create and assemble, from available or owned materials.  Most solutions available 
