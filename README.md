@@ -21,9 +21,13 @@ Creation of this system was inspired by the lack of existing direct drive soluti
 of the E3D Hemera and BIQU H2, etc.  Units that we as individuals, can create and assemble, from available or owned materials.  Most solutions available 
 to makers are gaudy, over sized, and overweight.  These negative traits have undesirable side effects when printing creating quality and speed concerns.
 
-Much has changed in this system from its inspirational parent products at the Voron project.   However I would like to extend a special thanks to the Voron
-group for their inspiration on this product and initial designs that made all of this possible so you and I can enjoy such things.  Please take a moment if
-you are not familiar with the Voron project to educate yourself on the hard work they commit to the maker space.  https://vorondesign.com/
+Much has changed in this system from its inspirational original product at the Voron project, simply put... everything changed and it really is not the same unit.   However I would like to extend a special thanks to the Voron group for their inspiration on this product and initial designs that made all of this possible so you and I can enjoy such things.  Please take a moment if you are not familiar with the Voron project to educate yourself on the hard work they commit to the makerspace.  https://vorondesign.com/
+
+This product's initial design is centered around using with one of the most popular printers available today, the Creality Ender.   Its designed to work with the stock bolting pattern of the system.  In the very near future, additional models of this will be released to facilitate mounting on other popular systems available today, as well as variations of the system to provide more hotend compatibility.   Upcoming target printers include Prusa, Artillery, Tevo, etc.   As the product evolves so will each variation.
+
+Upcoming models of this will include a Bowden version and a Micro version each serving their purpose with a unique twist.  The bowden is going to have some tricks up its sleeve you will not have ever seen to further improve print quality, while the micro version is going to take lightweight toolhead to the extreme.  Keep an eye out for these models as soon as this initial product leaves beta.
+
+Once this product leaves beta, along with the additional variations, scheduled is an entire 3D print based on the principles these units bring.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
