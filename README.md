@@ -53,6 +53,7 @@ Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 1. QTY - 9 - M3x5x4 Heatsets (Voron standard heatset)
 
 https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html
+
 2. QTY - 3 - MR115-2RS Bearing
 
 https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5
