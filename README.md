@@ -24,6 +24,8 @@ Much has changed in this system from its inspirational parent products at the Vo
 group for their inspiration on this product and initial designs that made all of this possible so you and I can enjoy such things.  Please take a moment if
 you are not familiar with the Voron project to educate yourself on the hard work they commit to the maker space.  https://vorondesign.com/
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 BOM.  (Note: This is the bare minimum and its wise to have spare screws/heatsets etc.)
 1. QTY - 9 - M3x5x4 Heatsets (Voron standard heatset)
 2. QTY - 3 - MR115-2RS Bearing
@@ -42,7 +44,7 @@ Highly Recommended Items Below
 
 13. QTY - 1 - Threadlocker (Loctite Blue or similar strength)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PRINT SETTINGS
 
