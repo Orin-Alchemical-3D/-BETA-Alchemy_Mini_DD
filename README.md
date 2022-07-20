@@ -1,4 +1,4 @@
-# BETA-Alchemy_Mini_Direct_Drive
+# BETA_Alchemy_Mini_Direct_Drive
 Small footprint &amp; lightweight direct drive extrusion system.
 
 !!!!  PLEASE READ THESE NOTES PRIOR TO CONTINUING WITH YOUR BUILD !!!!
