@@ -38,7 +38,7 @@ Once this product leaves beta, along with the additional variations, scheduled i
 
 # PRINT SETTINGS
 
-Materials - ABS/ASA
+Materials - ABS/ASA (Note: The parts are designed accounting for shrinkage of ASA & ABS, other filament types may or may not work.)
 
 Layer Height - 0.20
 
