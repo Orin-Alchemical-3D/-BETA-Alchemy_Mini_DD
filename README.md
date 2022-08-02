@@ -55,7 +55,7 @@ Perimeter Count - 4
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # B.O.M.  
-Note: I am working with suppliers to distribute individual qty purchases, this early in project though some of these are multipacks.
+Note: I am working with suppliers to distribute individual qty purchases, this early in project though some of these are multipacks, as of now Alchemical Printers is partially affiliated with both KB-3D & GulfCoast Robotics.   Both are high quality part providers with excellent customer service.
 
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
